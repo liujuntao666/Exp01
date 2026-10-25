@@ -9,3 +9,8 @@
 - VisualSVN Server 5.4.9
 - TortoiseSVN 1.14.9
 - 编译器：Dev-C++ 5.11 (TDM-GCC 4.9.2)
+
+## 成员分工
+
+- memberA：搭建仓库、提交初始代码
+- memberB：补充文档、整理环境说明
